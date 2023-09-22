@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @brian-boyle
 - 👀 I’m interested in software dev and concurrent, distributed systems
-- 🌱 I’m currently learning Elixir, Phoenix and OTP
 - 💞️ I’m looking to collaborate on anything that will help enhance my knowledge and skills
 - 📫 How to reach me - here on github is fine! :)
 
